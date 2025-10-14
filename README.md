@@ -1,6 +1,7 @@
 # FastML-app
 
-This is a web app that uses the several libraies suchas lazypredict library to predict multiple machine learning models on a users data preoptimization. The goal is to fasttrack the ML piipeline with tools and libraries. 
+This is a framework that streamlines and facilitates the machine learning application journey with tools for data processing, fast algorithmic test, feature selection and feature engineering. It provides web ui with several backend libraries such as lazypredict library to predict multiple machine learning models on a users data preoptimization. 
+The goal is to fasttrack the ML piipeline with tools and libraries. 
 
 
 # Demo
